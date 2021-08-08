@@ -18,6 +18,9 @@ buildNumber.properties
 # Log file
 *.log
 
+.idea/*
+*.iml
+
 # BlueJ files
 *.ctxt
 
