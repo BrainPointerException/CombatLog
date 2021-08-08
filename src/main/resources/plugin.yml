@@ -1,0 +1,5 @@
+name: CombatLog
+main: de.brainexception.combatlog.CombatLogPlugin
+version: 1.0
+author: BrainPointerException
+description: CombatLog plugin for a programming skills demonstration
